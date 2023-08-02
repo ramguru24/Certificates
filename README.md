@@ -1,2 +1,5 @@
-# ramprashad.github.io
-Certificates
+Certificates:
+Python
+CSS 
+MySQL
+Provided by: Hackerrank
